@@ -108,4 +108,4 @@ To run the simulation on Cisco Packet Tracer:
 ## Reproduce This Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ashrafulcs/Packet-Tracer-Project.git
+   git clone https://github.com/ashrafulcs/IUB-Network-Design.git
