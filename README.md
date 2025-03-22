@@ -19,7 +19,7 @@ This project simulates a real-world university network, showcasing how large org
 ## Packet Tracer Simulation
 Below is the Packet Tracer simulation showing the network design and connectivity.
 
-![Network Design](images/network-design.png)
+![Network Design](images/network-topology.png)
 
 
 ## Objectives
@@ -83,7 +83,7 @@ Each subnet will use NAT and will have its own DNS and DHCP services.
 
 ## Parent IP Block for Private Addresses
 Each subnet will use a private IP block starting with:
-192.168.19.10/20
+192.168.16.0/20
 
 ## Deliverables
 1. **IP Address Allocation Table**: A table showing the allocation of IP addresses to schools, administrative divisions, and websites.
